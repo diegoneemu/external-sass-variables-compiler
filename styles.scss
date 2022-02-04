@@ -1,0 +1,9 @@
+@use './sass/variables' as *;
+
+body {
+    color: $base-color;
+
+    div {
+        border: 3px solid $border-dark
+    }
+}
